@@ -7,4 +7,4 @@ Important Scripts:
 4. deploy on local blockchain `npx hardhat run scripts/deploy.js --network localhost`
 5. deploy on Ropsten Test Network `npx hardhat run scripts/deploy.js --network ropsten`
 
-## Complete Step by Step procedure here
+## Complete Step by Step procedure [here](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
